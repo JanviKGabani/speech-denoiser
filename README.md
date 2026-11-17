@@ -2,7 +2,7 @@
 
 A small causal speech-enhancement model that removes background noise from speech, frame by frame, fast enough for live audio.
 
-**Live demo:** coming soon · **Portfolio:** [janvikgabani.github.io](https://janvikgabani.github.io)
+**Live demo:** [janvi-speech-denoiser.streamlit.app](https://janvi-speech-denoiser.streamlit.app) · **Portfolio:** [janvikgabani.github.io](https://janvikgabani.github.io)
 
 ## How it works
 
