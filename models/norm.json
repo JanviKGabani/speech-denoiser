@@ -1,0 +1,1 @@
+{"target_rms": 0.1, "note": "Median RMS of the noisy VoiceBank-DEMAND clips. The original value was computed in Colab from the training set; 0.1 is the median of the bundled test clips."}

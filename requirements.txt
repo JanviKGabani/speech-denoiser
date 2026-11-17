@@ -1,0 +1,6 @@
+streamlit>=1.36
+onnxruntime>=1.18
+numpy
+scipy
+soundfile
+matplotlib
